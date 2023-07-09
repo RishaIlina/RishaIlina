@@ -1,4 +1,6 @@
 ### <div align="center">Привет! Меня зовут Ирина Ильина.</div>  
+
+<br/>
   
 
 - 🔭 В настоящее время я обучаюсь в Академии Top на курсе фронтенд разработчик.  
@@ -13,12 +15,12 @@
 <br/>  
 
 
-## My Skill Set  
+## 🛠 Технологии: 
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+### ⚙️ GitHub статистика:
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
